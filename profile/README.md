@@ -1,6 +1,6 @@
 ## 前言
 
-
+> 欢迎加入软件实验室项目组，如下是前端开发学习路线，不信可以坚持小半年试试 🫢
 
 ## 文档
 
@@ -164,7 +164,13 @@ https://github.com/Sunny-117/js-challenges
 
 学习NodeJs、express、koa: 前端小满
 
+![image](https://github.com/user-attachments/assets/bc023f76-4a4a-4665-baec-f3a06b1f0c3d)
+
+
 学习 NestJs：珠峰架构
+
+![image](https://github.com/user-attachments/assets/3711ecca-5d3d-4c6c-8eec-2e4ae7f9b2e4)
+
 
 学习 Election
 
