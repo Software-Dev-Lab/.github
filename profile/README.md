@@ -50,13 +50,13 @@
 
 Git教程：CoderWhy 王元红老师（后续可以边学后边的内容边看，不会 Git 操作，别敲代码了哈🥹）
 
-2. 🙋‍♀️ 配置 nvm、nrm、Node 环境、切换镜像源
+2、🙋‍♀️ 配置 nvm、nrm、Node 环境、切换镜像源
 
 不知道怎么配？看这篇博客试试 👇
 
 [适合小白的 nvm 安装配置教程（Windows版）](https://www.cnblogs.com/rnny/p/17839190.html#%E4%B8%80nvm-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
 
-3. 安装WebStrom编译器（你们真幸福，WebStrom刚刚可以免费使用了）
+3、🙋‍♀️ 安装WebStrom编译器（你们真幸福，WebStrom刚刚可以免费使用了）
 
 安装链接 👇
 
@@ -64,7 +64,7 @@ https://www.jetbrains.com/webstorm/
 
 ![image](https://github.com/user-attachments/assets/65ab780d-a453-42ae-a959-aaea6f58a348)
 
-4. 如果安装 VsCode 编译器，把下面的插件给安装上 👇
+4、🙋‍♀️ 如果安装 VsCode 编译器，把下面的插件给安装上 👇
 
 ![](https://img-blog.csdnimg.cn/img_convert/937f530bce4fc504a03a995374e1ee43.png)
 
@@ -102,12 +102,24 @@ CoderWhy 老师
 
 读掘金小册 《Vue组件精讲》，学习组件编程设计思路
 
-
 ### 第四步
 
 Vue3: 前端小满及尚硅谷新出的Vue3.0教程
 
+![image](https://github.com/user-attachments/assets/aef56194-71bc-4f2f-a0a1-b9304e05be24)
+
+![image](https://github.com/user-attachments/assets/73016a69-d9b5-4066-b9b4-0fabec5ccebd)
+
+
+跟着满哥学习网络知识
+
+![image](https://github.com/user-attachments/assets/30046eef-a528-4027-b16d-fdb87e17ad94)
+
+
 TypeScrript: 珠峰架构课程
+
+![image](https://github.com/user-attachments/assets/b8c0efbd-e489-42d3-a350-8854c59734d5)
+
 
 ### 第五步
 
@@ -117,15 +129,30 @@ TypeScrript: 珠峰架构课程
 
 ### 第六步
 
-1. 学习React
+1、学习React
 
-2. 参与项目组 YQ-Music（技术栈：Vue3、Vite、TypeScript、TailwindCSS、Less、Swiper、Vant-ui） 项目迭代
+2、参与项目组 YQ-Music（技术栈：Vue3、Vite、TypeScript、TailwindCSS、Less、Swiper、Vant-ui） 项目迭代
 
-3. 参与项目组 YQ-Admin（技术栈：Vue3、Vite、TypeScript、TailwindCSS、MockJs） 项目迭代
+3、参与项目组 YQ-Admin（技术栈：Vue3、Vite、TypeScript、TailwindCSS、MockJs） 项目迭代
 
-4. 参与项目组 YQ-UI 组件库迭代
+4、参与项目组 YQ-UI 组件库迭代
 
-5. 准备简历
+5、准备简历
+
+6、刷题
+
+刷题？是的！
+
+链接：
+
+https://github.com/Sunny-117/js-challenges
+
+![image](https://github.com/user-attachments/assets/35af3330-3785-4792-8409-b98b885f553b)
+
+
+![image](https://github.com/user-attachments/assets/4f1c6ab3-0020-4675-83c9-555589757c8e)
+
+![image](https://github.com/user-attachments/assets/7f641e78-82e1-46d8-b664-2e37615a244b)
 
 ### 第七步
 
@@ -144,6 +171,9 @@ TypeScrript: 珠峰架构课程
 ## 第九步
 
 学习微信小程序制作
+
+![image](https://github.com/user-attachments/assets/537a1205-5109-438e-a31e-dd4054685f09)
+
 
 ## 必买书籍
 
