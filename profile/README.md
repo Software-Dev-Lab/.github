@@ -82,11 +82,25 @@ https://www.jetbrains.com/webstorm/
 
 ### 第一步
 
-HTML5、CSS3：袁进大师课
+HTML5、CSS3：袁进大师课，不是秃子哈 👇
 
-TailwindCss：熟悉文档即可
+![image](https://github.com/user-attachments/assets/a38f39a5-c342-4329-b422-c02ff9036e19)
 
-学习一个CSS预处理语言，推荐 SCSS
+
+TailwindCss：熟悉文档即可 👇
+
+![image](https://github.com/user-attachments/assets/a355242d-3350-4a7e-8ff4-7eb2b6322a11)
+
+
+学习一个CSS预处理语言，推荐 SCSS 👇
+
+![image](https://github.com/user-attachments/assets/36a2719f-4d17-4640-b2e8-4d8f0e464c32)
+
+后边有用处
+
+![image](https://github.com/user-attachments/assets/de204990-cb0a-4e6b-b924-1e8a50e3ddb3)
+
+![image](https://github.com/user-attachments/assets/19607482-9236-403c-a98b-034b7fe59bc4)
 
 ### 第二步
 
